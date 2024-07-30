@@ -1,0 +1,22 @@
+# Python
+*.pyc
+__pycache__/
+env/
+es/
+tests/
+# Environment Variables
+.env
+
+# Node.js
+node_modules/
+build/
+npm-debug.log
+
+# Logs
+*.log
+
+# IDEs and editors
+.vscode/
+.idea/
+
+
